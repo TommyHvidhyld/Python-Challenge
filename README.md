@@ -1,1 +1,5 @@
 # Python-Challenge
+There were two parts of this challenge. The first part included creating a script to analyze a financial dataset. Although it was a simple dataset, it posed many challenges to me. I ran loops throught the data to find the total number of months, the net total of "Profit/Losses," the average change of the profit or loss for any given month, and the greatest increase and decrease in profits throughout the entire period. I then exported the results to another text file. 
+The second part was very similar to part one. This time the dataset was based on election results. I did my best to report the total number of votes cast and the results of the elections based on the candidates. I was able to produce the percentages but unable to clearly display the winner.
+I spent a lot of time on this project and learned valuable skills about for loops and functions with lists and dictionaries while grabbing information from a csvfile. I also learned that I need to ask for more help and use the resources at my disposal to maximize my efficiency.
+
